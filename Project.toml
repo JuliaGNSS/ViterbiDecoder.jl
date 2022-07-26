@@ -1,0 +1,13 @@
+name = "ViterbiDecoder"
+uuid = "5f0870c7-49c9-4542-b5f1-5d9ed4caea51"
+authors = ["Soeren Schoenbrod <soeren.schoenbrod@outlook.de> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
