@@ -1,5 +1,4 @@
-[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://JuliaGNSS.github.io/ViterbiDecoder.jl/stable)
-[![](https://img.shields.io/badge/docs-dev-blue.svg)](https://JuliaGNSS.github.io/ViterbiDecoder.jl/dev)
+[![Build Status](https://travis-ci.org/JuliaGNSS/ViterbiDecoder.jl.svg?branch=main)](https://travis-ci.org/JuliaGNSS/ViterbiDecoder.jl)
 
 # ViterbiDecoder
 
